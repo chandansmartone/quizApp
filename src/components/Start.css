@@ -39,6 +39,7 @@ button{
     font-size: 20px;
     background: #212529;
     border-radius: 10px;
+    cursor: pointer;
 }
 .qsns .greeny{
     background: rgb(109, 220, 109);
