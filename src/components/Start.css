@@ -1,0 +1,48 @@
+button{
+    padding: 20px 40px;
+    font-weight: 600;
+    font-size: 1.3rem;
+}
+.qsncontainer{
+    width: 750px;
+    height: 400px;
+    border: 5px solid black;
+    margin: auto;
+    background:#4a555f;
+
+}
+.header{
+    margin: 0;
+    
+    font-size: 24px;
+    height: 60px;
+    align-items: start;
+    border: 2px solid  black;
+   
+
+}
+.header span{
+   margin-top: 20px;
+}
+.qsns{
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 20px;
+}
+.qsns .all{
+    width: 95%;
+    text-align: start;
+    padding: 5px 10px;
+    font-size: 20px;
+    background: #212529;
+    border-radius: 10px;
+}
+.qsns .greeny{
+    background: rgb(109, 220, 109);
+}
+.qsns .redy{
+    background: red;
+}
